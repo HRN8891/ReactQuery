@@ -1,0 +1,48 @@
+import {ColorPalettes} from './types';
+
+const colorScheme: ColorPalettes = {
+  dark: {
+    PrimaryColor: '#A673E4',
+    SecondaryColor: '#F9CA13',
+    BackgroundColor: '#1C1C1C',
+    PrimaryText: '#656565',
+    SecondaryText: '#989898',
+    BorderLine: 'rgba(255, 255, 255, 0.5)',
+    InputBorderBottom: 'rgba(255, 255, 255, 0.2)',
+    transparent: 'transparent',
+    redColor: '#FE5F6B',
+    white: '#ffffff',
+    black1: '#000000',
+    black2: 'rgba(8, 20, 29, 0.6)',
+    grey1: '#4A4A4A',
+    grey2: '#484848',
+    grey3: '#D3D3D3',
+    grey4: 'rgb(245, 245, 245)',
+    blue1: '#0000EE',
+    error: '#FF0000',
+    textColor: '#ffffff',
+  },
+  light: {
+    PrimaryColor: '#57C7FF',
+    SecondaryColor: '#FF9F40',
+    BackgroundColor: '#F2F2F2',
+    PrimaryText: '#7B7B7B',
+    SecondaryText: '#AFAFAF',
+    BorderLine: 'rgba(0, 0, 0, 0.5)',
+    InputBorderBottom: 'rgba(0, 0, 0, 0.2)',
+    transparent: 'transparent',
+    redColor: '#E10000',
+    white: '#ffffff',
+    black1: '#000000',
+    black2: 'rgba(0, 0, 0, 0.6)',
+    grey1: '#5C5C5C',
+    grey2: '#595959',
+    grey3: '#E1E1E1',
+    grey4: 'rgb(230, 230, 230)',
+    blue1: '#0000FF',
+    error: '#FF0000',
+    textColor: '#000000',
+  },
+};
+
+export {colorScheme};

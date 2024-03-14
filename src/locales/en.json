@@ -1,0 +1,39 @@
+{
+  "common": {
+    "noConnectivity": "No internet connection!",
+    "loading": "Loading...",
+    "logout_warning": "Are you sure you want to signout?",
+    "no": "NO",
+    "yes": "YES",
+    "something_went_wrong": "Something went wrong!",
+    "server_error": "Server error!",
+    "sessionExpired": "session expired, please login again"
+  },
+  "signIn": {
+    "bottomText": "Don't have an account?",
+    "bottomText2": "Sign up now.",
+    "signIn": "Sign In",
+    "email": "email",
+    "password": "password"
+  },
+  "signUp": {
+    "email": "email",
+    "password": "password",
+    "confirmPassword": "confirm password",
+    "signUp": "Sign Up"
+  },
+  "errorScreen": {
+    "somethingWrong": "Oops something went wrong.",
+    "appInProblem": "The app ran into a problem and could not continue. We apologise for any inconvenience this has caused! Press the button below to restart the app and sign back in. Please contact us if this issue persists.",
+    "back": "Back to Sign in"
+  },
+  "setting": {
+    "logout": "Logout",
+    "deleteAccount": "Delete Account",
+    "termUse": "Terms of Use",
+    "privacy": "Privacy Policy",
+    "goToSetting": "Go to app setting",
+    "copyRight": "Copyright @ AppName. All Rights Reserved",
+    "changeTheme": "Change Theme"
+  }
+}
